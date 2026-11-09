@@ -64,6 +64,7 @@ Full setup (venv, production build, configuration) is in [Getting Started](#gett
 - [Architecture](#architecture)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
+- [One-Click Deploy](#one-click-deploy)
 - [Workflow](#workflow)
 - [Configuration](#configuration)
 - [Known Limitations](#known-limitations)
@@ -191,6 +192,10 @@ Open `http://localhost:3000`. In dev mode Vite already proxies `/api` and `/ws` 
 ```bash
 cd frontend && npm run build      # output goes to frontend/dist
 ```
+
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/ReadyLLM/)
 
 ## Workflow
 
